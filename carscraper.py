@@ -17,7 +17,7 @@ EMAIL_PASSWORD = input('Enter your email password: ')
 RECIPIENT_EMAIL = input("Enter recipient's email address: ")
 CAR_MILEAGE = input('Enter preferred car mileage: ')
 CAR_COLOR = input('Enter preferred car color: ')
-CHECK_INTERVAL = 2500  # Check every 300 secs
+CHECK_INTERVAL = 2500  # Check every 2500 secs
 
 # Websites to scrape
 WEBPAGES = {
