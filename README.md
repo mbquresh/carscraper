@@ -1,8 +1,8 @@
 # Car Scraper
 
-This Python script allows you to scrape various car listing websites to find a specific car model based on user preferences such as mileage and color. It sends email notifications when a matching car is found.
-*Code is just experimental that I made up with help from chatgpt. It runs, but it looks like the websites clearly hate scrapers and don't allow it to work. Will have to think of a workaround.
+A Python-based automation tool that monitors car listing websites for specific vehicle models based on user-defined criteria such as mileage, color, and model type. When a matching listing is detected, the system sends automated email notifications to alert the user in real time.
 
+The project explores web data extraction techniques, structured parsing of vehicle listings, and automated notification workflows.
 ## Setup
 
 ### Prerequisites
